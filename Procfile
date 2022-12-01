@@ -1,1 +1,1 @@
-web: gunicorn inExps.wsgi
+web : gunicorn inExps.wsgi
