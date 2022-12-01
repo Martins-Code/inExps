@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2782fd20-4d66-4c32-9502-84b8710b185d" name="Changes" comment="" />
+    <list default="true" id="2782fd20-4d66-4c32-9502-84b8710b185d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +42,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/home/martins/work/django-apps/env",
     "list.type.of.created.stylesheet": "CSS",
@@ -89,7 +95,7 @@
       <workItem from="1669779353329" duration="1390000" />
       <workItem from="1669847641600" duration="8421000" />
       <workItem from="1669856135348" duration="1163000" />
-      <workItem from="1669857300212" duration="31000" />
+      <workItem from="1669857300212" duration="607000" />
     </task>
     <servers />
   </component>
