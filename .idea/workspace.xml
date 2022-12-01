@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2782fd20-4d66-4c32-9502-84b8710b185d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/extensions/_messages.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authentication/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/authentication/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inExps/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/inExps/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inExps/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/inExps/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/register.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/authentication/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/authentication/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +113,8 @@
       <workItem from="1669888734652" duration="4000" />
       <workItem from="1669891741322" duration="440000" />
       <workItem from="1669892183511" duration="4464000" />
-      <workItem from="1669906410364" duration="1143000" />
+      <workItem from="1669906410364" duration="1935000" />
+      <workItem from="1669908418799" duration="1522000" />
     </task>
     <servers />
   </component>
