@@ -20,6 +20,7 @@
                                     class="form-control form-control-sm"
                                     id="usernameField"
                                     placeholder="Username"
+                                    value="{{ fieldValues.username }}"
                             />
                         </div>
                         <div class="invalid-feedback" style="display: none"></div>
@@ -32,6 +33,7 @@
                                     class="form-control form-control-sm"
                                     id="emailField"
                                     placeholder="Email"
+                                    value="{{ fieldValues.email }}"
                             />
                         </div>
 
@@ -45,6 +47,7 @@
                                     class="form-control form-control-sm"
                                     id="passwordField"
                                     placeholder="Password"
+{#                                    value="{{ fieldValues.password }}"#}
                             />
                             <small class="float-sm-end py-3 showPasswordToggle">Show</small>
                         </div>
@@ -52,7 +55,7 @@
                         <input
                                 type="submit"
                                 value="Register"
-                                class="btn btn-block btn-primary"
+                                class="btn btn-block btn-primary submit-btn"
                         />
                     </form>
                 </div>

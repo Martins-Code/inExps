@@ -40,10 +40,29 @@ class RegistrationView(View):
         return render(request, 'authentication/register.html')
 
     def post(self, request):
+        # Get User Data
+        # Validate
+        # Create a new User
 
-        messages.success(request, 'Successfully Created')
-        messages.warning(request, 'Message Alert')
-        messages.info(request, 'Info')
-        messages.error(request, 'Message Error')
+        username = request.POST['username']
+        email = request.POST['email']
+        password = request.POST['password']
 
-        return render(request, 'authentication/register.html')
+        context = {
+            'fieldValues': request.POST
+        }
+
+        if not User.objects.filter(username=username).exists():
+            if not User.objects.filter(email=email).exists():
+
+                if len(password) < 6:
+                    messages.error(request, 'Password length must be more than 6')
+                    return render(request, 'authentication/register.html', context)
+
+                user = User.objects.create_user(username=username, email=email)
+                user.set_password(password)
+                user.save()
+                messages.success(request, 'Successfully Created')
+                return render(request, 'authentication/register.html')
+
+            return render(request, 'authentication/register.html')
