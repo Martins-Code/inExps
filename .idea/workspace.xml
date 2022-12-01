@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2782fd20-4d66-4c32-9502-84b8710b185d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inExps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inExps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/extensions/_messages.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/authentication/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/authentication/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/authentication/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/authentication/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inExps/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/inExps/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/authentication/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/authentication/register.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,9 +20,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="Python Script" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -112,7 +110,8 @@
       <workItem from="1669884734765" duration="283000" />
       <workItem from="1669888734652" duration="4000" />
       <workItem from="1669891741322" duration="440000" />
-      <workItem from="1669892183511" duration="3928000" />
+      <workItem from="1669892183511" duration="4464000" />
+      <workItem from="1669906410364" duration="1143000" />
     </task>
     <servers />
   </component>
