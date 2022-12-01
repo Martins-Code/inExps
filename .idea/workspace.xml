@@ -4,7 +4,6 @@
     <list default="true" id="2782fd20-4d66-4c32-9502-84b8710b185d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +94,7 @@
       <workItem from="1669847641600" duration="8421000" />
       <workItem from="1669856135348" duration="1163000" />
       <workItem from="1669857300212" duration="941000" />
-      <workItem from="1669858340873" duration="1088000" />
+      <workItem from="1669858340873" duration="1154000" />
     </task>
     <servers />
   </component>
